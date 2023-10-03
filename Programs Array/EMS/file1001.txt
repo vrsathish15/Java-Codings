@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+Employee ID:1003
+Employee Name     :sathish kumar
+Father's Name     :vellu
+Employee Contact  :567898765
+Email Information :vrsathish15@gail.com
+Employee position :manager
+Employee Salary   :676787
